@@ -11,6 +11,7 @@ public class bank {
         customer1.getAmount();
         customer1.withdrawAmount(amount);
         customerDetails customer2 = new customerDetails();
+        sc.close();
     }
 }
 
